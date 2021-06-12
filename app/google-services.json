@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416646401221",
+    "project_id": "wristapp-5c828",
+    "storage_bucket": "wristapp-5c828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416646401221:android:e3cb09925e89fdb7e7b4ac",
+        "android_client_info": {
+          "package_name": "pl.kinga.wristapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416646401221-f2k8e40hpgiqd06itjm8gk4ouorb257p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBey6a2-ie68KbPuRYmABHa0GH-o72K9mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416646401221-f2k8e40hpgiqd06itjm8gk4ouorb257p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

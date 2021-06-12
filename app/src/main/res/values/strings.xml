@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">wristApp</string>
+    <string name="hi">Here is a test to determine your wrist motor skills.
+        Press the start button to begin.</string>
+    <string name="info">Przed Tobą test sprawności kciuka składający się z czterech prób, dwóch na prawą i dwóch na lewą dłoń.
+        Przed każdą próbą poinformujemy Cię o numerze próby oraz o dłoni, którą dana próba obejmuje. </string>
+    <string name="info1">Ważne abyś podczas wykonywania testu trzymał telefon w określony sposób i starał się nie zmieniać tej pozycji do zakończenia wszytskich prób testu.
+        Pozycja telefonu objaśnionia jest na kolejnych sjadach. Kliknij przycisk poniżej.
+       </string>
+    <string name="info2">
+        Postraj się aby nie wykonywać innych przypadkowych dotknięć ekranu, ponieważ próba będzie wtedy uznana za nieważna. Jeżeli jesteś gotowy kliknij przycisk poniżej. Powodzenia!</string>
+    <string name="info3">
+        Postraj się aby nie wykonywać innych przypadkowych dotknięć ekranu, ponieważ próba będzie wtedy uznana za nieważna. Jeżeli jesteś gotowy kliknij przycisk poniżej. Powodzenia!</string>
+    <string name="info5">Test polega na prześledzeniu KCIUKIEM kształtów pojawiących się na ekranie.
+        Wybierz punkt początkowy na konturze kształtu i postaraj się do niego wrócić nie odrywając palca od ekranu.
+        Będziesz widział linie, którą rysujesz.
+        Twój wynik rejestrowny jest od pierwszego dotknięcia ekranu aż do pierwszego podniesienia palca.
+       </string>
+    <string name="info6">Ułóż dłonie w koszyczek tak jak na zdjęciu poniżej.</string>
+    <string name="info7">Następnie postaraj się złożyć dłonie w ten sam sposób z telefonem pomiędzy nimi.
+        Dolne rogi telefonu powinny znajdować się dokładnie w centralnym punkcie wnętrza dłoni, tak jak na zdjęciu poniżej.</string>
+    <string name="SIGN_IN_INF0">Zaloguj się za pomocą hasła, które dostałeś od swojego lekarza: </string>
+
+    <string name="draw">Odrysuj kształt kciukiem</string>
+    <string name="left_hand_info">Test LEWEJ ręki. Po naciśnięciu przycisku "start" wyświetlone zostaną kolejno trzy elipsy.
+        Odrysuj kciukiem lewej ręki ich kształ najlepiej jak umiesz.</string>
+    <string name="end">Pierwsza próba zakończona. By Twój wynik był wiarygodny wykonaj próbę jeszcze raz klikając przycisk poniżej:</string>
+    <string name="end_text">Brawo! Zakończyłeś obie próby testu. Możesz zakończyć test klikając przycisk poniżej:</string>
+    <string name="start_test_again">Rozpocznij test</string>
+    <string name="end_test">Zakończ</string>
+    <string name="now_right_hand">Test PRAWEJ ręki. Po naciśnięciu przycisku "start" wyświetlone zostaną kolejno trzy elipsy.
+        Odrysuj kciukiem prawej ręki ich kształ najlepiej jak umiesz.</string>
+</resources>
